@@ -47,5 +47,5 @@ if you like what i do, maybe consider give me a star 🥺👉👈
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham](https://github-readme-stats.vercel.app/api?username=SUHAIL-TH&theme=dark&hide_border=false&include_all_commits=true&count_private=false)https://github-readme-stats.vercel.app/api?username=SUHAIL-TH&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Suhail TH" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SUHAIL-TH&theme=dark&hide_border=false&include_all_commits=true&count_private=false)https://github-readme-stats.vercel.app/api?username=SUHAIL-TH&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="Suhail TH" />
 
