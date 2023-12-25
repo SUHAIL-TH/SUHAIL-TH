@@ -27,8 +27,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ```txt
 Javascript   09 hrs 59 mins  ██████████████████████░░░   87.57 %
-Node js      01 hr 30 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
-Angular      29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+Node js      04 hr 30 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
+Angular      56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
 TypeScript   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 Bash         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
